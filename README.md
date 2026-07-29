@@ -127,12 +127,3 @@ The dataset used for evaluation is:
 > SNAP – com-Amazon Co-purchase Network.
 
 ---
-
-# Citation
-
-If you use this repository in your work, please cite:
-
-> **GPU-Accelerated Community Detection: Improving the Louvain Algorithm through Hybrid and Adaptive Methods**  
-> Aniket Jain, Ayush Pal, Ishan Bhati, Shrinidhi Narwriya  
-> Department of Computer Science and Engineering  
-> Indian Institute of Technology Bhilai
